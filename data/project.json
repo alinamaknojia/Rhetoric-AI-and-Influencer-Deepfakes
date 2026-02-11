@@ -30,8 +30,8 @@
     "auto_populate_home_page": true,
     "additional_users": [
       {
-        "login_name": "ThiemHagan",
-        "avatar_url": "https://avatars.githubusercontent.com/u/260948122?v=4",
+        "login_name": "tylermdelarosa",
+        "avatar_url": "https://avatars.githubusercontent.com/u/260957456?v=4",
         "admin": false
       }
     ],
@@ -40,7 +40,7 @@
       "tags": []
     },
     "created_at": "2026-02-11T15:59:33.405Z",
-    "updated_at": "2026-02-11T15:59:33.405Z",
+    "updated_at": "2026-02-11T16:18:31.337Z",
     "generate_pages_site": true
   },
   "annotations": {},
