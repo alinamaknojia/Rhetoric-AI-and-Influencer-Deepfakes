@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "d6ef5c36-4a77-4313-a7c1-e0a1b265aca8": {
+      "is_offline": false,
+      "file_type": "Video ",
+      "file_url": "https://ia600700.us.archive.org/9/items/obamaDeepfake/obamaDeepfake.mp4",
+      "duration": 72
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Obama Deepfake",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Video is a 2018 deepfake of Obama warning viewers of the dangers of technology and how you should not believe everything on the internet"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-02-23T16:09:13.505Z",
+  "created_by": "alinamaknojia",
+  "updated_at": "2026-02-23T16:09:13.505Z",
+  "updated_by": "alinamaknojia"
+}
