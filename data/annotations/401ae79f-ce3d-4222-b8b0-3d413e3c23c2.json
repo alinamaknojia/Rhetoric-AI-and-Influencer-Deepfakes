@@ -8,27 +8,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Creator of the deep fake, and Anderson Cooper"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "communicator"
-        }
-      ],
-      "uuid": "f2cb3ed6-2ac4-42c3-b941-ea0d533b2f9e"
-    },
-    {
-      "start_time": 12,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Creates urgency to warn audience of the danger of deepfakes "
             }
           ]
