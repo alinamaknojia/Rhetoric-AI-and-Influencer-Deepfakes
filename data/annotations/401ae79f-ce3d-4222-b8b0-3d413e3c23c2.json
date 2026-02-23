@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Use of credible news anchor as an illustration of Ethos"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Ethos",
-          "category": "Rhetorical Appeals"
-        }
-      ],
-      "uuid": "7392f458-40ab-41e8-99e5-73d0b5201132"
-    },
-    {
       "start_time": 12,
       "end_time": 26,
       "annotation": [
