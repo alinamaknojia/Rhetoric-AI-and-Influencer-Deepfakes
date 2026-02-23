@@ -1,5 +1,174 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of a credible past president to give the video credibility"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "660e2ab8-d9a2-4acb-8e0b-5cb524cb4c1b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well done manipulation of a credible person to appeal to your logical analysis "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "cb16a91a-8c9c-4693-be19-de5812750002"
+    },
+    {
+      "start_time": 19,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The deepfake makes a couple of jokes that appeal to humor and distract you from the fact that it is a deepfake. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "0230bc0f-a07d-41dc-8e23-fdda49001ee4"
+    },
+    {
+      "start_time": 0,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General Public/American People"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "d2577cf6-893f-40a2-8389-12e2a0319d17"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They can now make it look like anyone could be saying anything at any point in time"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "08b90452-9074-4fe2-b1d5-9b84f2e5f27d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creator of the deepfake John Terning"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "46dc0c9b-94dc-40c7-837f-0fa347c183a6"
+    },
+    {
+      "start_time": 43,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Concern of the spread of deepfakes and misinformation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "0b25235f-6e8c-4d03-a4f6-e204913e7b7f"
+    },
+    {
+      "start_time": 37,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the time where Deepfakes have started to become believable "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "828f85cb-6d31-4954-a621-1f3784f6eb1a"
+    }
+  ],
   "set": "Default",
   "event_id": "56c5a21f-f0fd-4708-9da7-7028c51cb04e",
   "source_id": "d6ef5c36-4a77-4313-a7c1-e0a1b265aca8"
