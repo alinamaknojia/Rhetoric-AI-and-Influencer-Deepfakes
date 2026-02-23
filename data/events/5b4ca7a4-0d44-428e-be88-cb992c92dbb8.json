@@ -2,9 +2,10 @@
   "audiovisual_files": {
     "714f27fa-63a7-46fe-98b3-3e5b17e5a9ec": {
       "is_offline": false,
-      "file_type": "Video ",
+      "file_type": "Video",
       "file_url": "https://ia600700.us.archive.org/9/items/obamaDeepfake/andersonDeepfake.mp4",
-      "duration": 26
+      "duration": 26,
+      "label": "Anderson Cooper Deepfake "
     }
   },
   "auto_generate_web_page": true,
@@ -21,6 +22,9 @@
   ],
   "created_at": "2026-02-23T16:09:13.505Z",
   "created_by": "alinamaknojia",
-  "updated_at": "2026-02-23T16:09:13.505Z",
-  "updated_by": "alinamaknojia"
+  "updated_at": "2026-02-23T16:19:02.328Z",
+  "updated_by": "ccui7247",
+  "av_file_order": [
+    "714f27fa-63a7-46fe-98b3-3e5b17e5a9ec"
+  ]
 }
