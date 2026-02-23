@@ -28,19 +28,59 @@
     "authors": "Alina, Christina, Tyler, Hagan ",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "ccui7247",
-        "avatar_url": "https://avatars.githubusercontent.com/u/73308496?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Rhetorical Appeals",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Rhetorical Triangle",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Expanded Rhetorical Triangle",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        },
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        },
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        },
+        {
+          "tag": "Context",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ]
     },
     "created_at": "2026-02-11T15:59:33.405Z",
-    "updated_at": "2026-02-23T16:09:38.915Z",
+    "updated_at": "2026-02-23T16:13:25.391Z",
     "generate_pages_site": true
   },
   "annotations": {},
