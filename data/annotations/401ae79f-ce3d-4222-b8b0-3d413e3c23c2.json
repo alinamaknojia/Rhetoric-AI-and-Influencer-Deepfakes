@@ -104,27 +104,6 @@
         }
       ],
       "uuid": "869b11c0-ab11-47c6-af33-cad62bdb8d97"
-    },
-    {
-      "start_time": 0,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "During the time of arising deep fakes that are starting to look more real "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "context"
-        }
-      ],
-      "uuid": "6d5fa1a8-d59d-453c-a4fc-3579e3bf6640"
     }
   ],
   "set": "Default",
