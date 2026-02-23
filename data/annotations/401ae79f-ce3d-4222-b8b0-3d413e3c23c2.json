@@ -1,27 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 12,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Creates urgency to warn audience of the danger of deepfakes "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "exigence"
-        }
-      ],
-      "uuid": "869b11c0-ab11-47c6-af33-cad62bdb8d97"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "5b4ca7a4-0d44-428e-be88-cb992c92dbb8",
   "source_id": "714f27fa-63a7-46fe-98b3-3e5b17e5a9ec"
