@@ -1,5 +1,174 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of credible news anchor as an illustration of Ethos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "7392f458-40ab-41e8-99e5-73d0b5201132"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "employs feeling of trust "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "8828e0c4-7067-47ed-9cb7-ec56f5bd1f5d"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through AI generated Deep fake"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "8877a18b-3d4b-439f-8b2b-25238cc8e6e2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General Public"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "audience"
+        }
+      ],
+      "uuid": "84692442-0b9e-44a6-88b4-0e5f48a5730a"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of AI generated Deep Fakes are hard to distinguish from real videos; Be careful to trust online videos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "message"
+        }
+      ],
+      "uuid": "b56b6df4-2343-4053-b9db-9a97b606b4fa"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creator of the deep fake, and Anderson Cooper"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "communicator"
+        }
+      ],
+      "uuid": "f2cb3ed6-2ac4-42c3-b941-ea0d533b2f9e"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creates urgency to warn audience of the danger of deepfakes "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "exigence"
+        }
+      ],
+      "uuid": "869b11c0-ab11-47c6-af33-cad62bdb8d97"
+    },
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "During the time of arising deep fakes that are starting to look more real "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "context"
+        }
+      ],
+      "uuid": "6d5fa1a8-d59d-453c-a4fc-3579e3bf6640"
+    }
+  ],
   "set": "Default",
   "event_id": "5b4ca7a4-0d44-428e-be88-cb992c92dbb8",
   "source_id": "714f27fa-63a7-46fe-98b3-3e5b17e5a9ec"
