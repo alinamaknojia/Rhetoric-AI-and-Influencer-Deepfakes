@@ -43,27 +43,6 @@
       "uuid": "8877a18b-3d4b-439f-8b2b-25238cc8e6e2"
     },
     {
-      "start_time": 0,
-      "end_time": 26,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "General Public"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "audience"
-        }
-      ],
-      "uuid": "84692442-0b9e-44a6-88b4-0e5f48a5730a"
-    },
-    {
       "start_time": 12,
       "end_time": 26,
       "annotation": [
