@@ -2,9 +2,10 @@
   "audiovisual_files": {
     "d6ef5c36-4a77-4313-a7c1-e0a1b265aca8": {
       "is_offline": false,
-      "file_type": "Video ",
+      "file_type": "Video",
       "file_url": "https://ia600700.us.archive.org/9/items/obamaDeepfake/obamaDeepfake.mp4",
-      "duration": 72
+      "duration": 72,
+      "label": "Obama Deepfake"
     }
   },
   "auto_generate_web_page": true,
@@ -21,6 +22,9 @@
   ],
   "created_at": "2026-02-23T16:09:13.505Z",
   "created_by": "alinamaknojia",
-  "updated_at": "2026-02-23T16:09:13.505Z",
-  "updated_by": "alinamaknojia"
+  "updated_at": "2026-02-23T16:21:37.966Z",
+  "updated_by": "ccui7247",
+  "av_file_order": [
+    "d6ef5c36-4a77-4313-a7c1-e0a1b265aca8"
+  ]
 }
