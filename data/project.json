@@ -87,15 +87,11 @@
         {
           "tag": "Context",
           "category": "Expanded Rhetorical Triangle"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "context"
         }
       ]
     },
     "created_at": "2026-02-11T15:59:33.405Z",
-    "updated_at": "2026-02-24T14:16:39.109Z",
+    "updated_at": "2026-02-24T14:16:41.129Z",
     "generate_pages_site": true
   },
   "annotations": {},
