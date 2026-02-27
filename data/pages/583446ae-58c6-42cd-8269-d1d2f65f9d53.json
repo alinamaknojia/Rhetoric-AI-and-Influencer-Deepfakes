@@ -20,7 +20,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The video was originally posted from a Youtube channel called “LipSynthesis”, where they are promoting their deepfake lipsyncing technology and showing it off through the Cooper deepfake. The purpose behind the video is to both highlight deepfake technology’s realism and the dangers of deepfaking famous figures as well as warn viewers to view media through a cautious critical and analytical perspective. This video also raises questions surrounding the ethics of deepfakes, as they can create “legal, moral, and social implications [that] demand serious consideration” (\"Anderson Cooper\")."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -50,6 +66,6 @@
   "slug": "anderson-cooper-deepfake-introduction",
   "created_at": "2026-02-27T03:33:41.419Z",
   "created_by": "ccui7247",
-  "updated_at": "2026-02-27T09:14:25.987Z",
+  "updated_at": "2026-02-27T09:50:24.998Z",
   "updated_by": "ccui7247"
 }
