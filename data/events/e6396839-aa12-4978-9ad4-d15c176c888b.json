@@ -15,15 +15,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Video is 2019 deepfake that was made when Zuckerberg refused to take down a facebook video"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The video is a 2019 deepfake of Mark Zuckerberg, made in direct response to when Facebook refused to take down a doctored video of House member Nancy Pelosi."
         }
       ]
     }
   ],
   "created_at": "2026-02-23T16:09:13.505Z",
   "created_by": "alinamaknojia",
-  "updated_at": "2026-02-24T14:16:12.241Z",
-  "updated_by": "trentwintermeier",
+  "updated_at": "2026-02-27T09:53:26.896Z",
+  "updated_by": "ccui7247",
   "av_file_order": [
     "ca29653d-152b-4568-a912-092e72067675"
   ]
