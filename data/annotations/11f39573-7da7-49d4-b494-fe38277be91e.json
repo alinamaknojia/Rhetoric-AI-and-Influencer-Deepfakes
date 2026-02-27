@@ -134,7 +134,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Concern of the spread of deepfakes and misinformation"
+              "text": "The exigence is the rising concern over political misinformation that could be easily spread using deepfake technology, and the harm that comes from using deepfake technology to impersonate figures and doctor false videos of them. Using Obama’s likeness highlights the urgency of recognizing and responding to fake media, especially during politically sensitive times. The motivating force behind the creation of the video was likely due to deepfake technology becoming better, more realistic, and more accessible, and how these factors could lead to the misuse of deepfake technology, especially when used to manipulate videos of influential political figures like Obama. Peele created the video as a warning to audiences to not believe in everything they see online."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
             }
           ]
         }
