@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The video is an Instagram post of a deepfaked video of Mark Zuckerberg, founder of Facebook and Meta. Zuckerberg is shown to be admitting to common criticisms that people have for Facebook, opening up with the line “one man, with total control over billions of peoples’ stolen data” (“Mark Zuckerberg Deepfake” [00:12]) and saying “whoever controls the data, controls the future” (“Mark Zuckerberg Deepfake” [00:23]). The video exists as part of a series of other deepfake videos of celebrities and influential figures as a larger online media art exhibition titled “Spectre”. The post was also originally made to test Facebook’s policies in regards to misinformation after “Facebook refused to remove a doctored video of House Speaker Nancy Pelosi last month” (Metz and O'Sullivan)."
         }
       ]
@@ -42,6 +50,6 @@
   "slug": "mark-zuckerberg-deepfake-introduction",
   "created_at": "2026-02-27T03:32:08.330Z",
   "created_by": "ccui7247",
-  "updated_at": "2026-02-27T03:32:08.330Z",
+  "updated_at": "2026-02-27T09:13:29.476Z",
   "updated_by": "ccui7247"
 }
