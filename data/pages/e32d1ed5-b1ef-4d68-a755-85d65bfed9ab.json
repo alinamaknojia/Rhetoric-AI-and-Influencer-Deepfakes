@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The deepfake video featuring Obama showcases a digitally altered version of former President Barack Obama (\"Fake Obama\" [00:00:00 - 00:01:12]) as he delivers a public service announcement regarding the threats posed by deepfakes. The irony is striking, he warns viewers about deepfakes while being one himself. In the end, it’s revealed that advanced deepfake technology was used to create the video and creator “Jordan Peele transferred his own facial movements to Obama’s facial characteristics” (Ars Electronica). Also, a number of news broadcasting stations have shared this video and provided their thoughts on it. This highlights the significance of the topic and indicates that it requires more attention. This video serves to illustrate just how realistic and persuasive deepfakes can be, particularly when they involve prominent public figures. "
         }
       ]
@@ -50,6 +58,6 @@
   "slug": "barack-obama-deepfake-introduction",
   "created_at": "2026-02-27T03:32:43.498Z",
   "created_by": "ccui7247",
-  "updated_at": "2026-02-27T03:32:43.498Z",
+  "updated_at": "2026-02-27T09:14:03.206Z",
   "updated_by": "ccui7247"
 }
