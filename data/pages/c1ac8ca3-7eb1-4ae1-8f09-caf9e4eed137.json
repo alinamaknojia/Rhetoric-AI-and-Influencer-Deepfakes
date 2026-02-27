@@ -20,7 +20,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The exigence that led Bill Posters, the creator of the video, to post this video was directly fueled by Facebook’s initial refusal to take down a doctored video of Nancy Pelosi. The video was meant to point out Facebook’s hypocrisy in their policies against posts with false information. From Posters’ Instagram account, we see other deepfaked videos of celebrities saying or doing shocking things. This account seems to be posting these videos as part of the larger synthetic media project as a way to provide commentary on society’s influential figures, point out hypocritical errors in Facebook’s policies, but also shine light on how deepfake technology can be used as an art form to convey a message. The video shows how deepfake technology being manipulated on videos of influential people and celebrities can be used as a commentary/activism tactic, but can also be dangerous, since these videos are likely to gain more viewers and affect a larger audience, especially since many “deepfakes are used to obtain sensational content with the aim of discrediting people [and] misinforming and spreading untruths” (Suciu 26). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -50,6 +66,6 @@
   "slug": "mark-zuckerberg-deepfake-introduction",
   "created_at": "2026-02-27T03:32:08.330Z",
   "created_by": "ccui7247",
-  "updated_at": "2026-02-27T09:13:29.476Z",
+  "updated_at": "2026-02-27T09:49:45.275Z",
   "updated_by": "ccui7247"
 }
