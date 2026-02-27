@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\tThe urgency of this video stems from the increasing prevalence of deepfake technology. As these videos become more widespread and difficult to identify, they present significant dangers especially in the realms of politics and media. For instance, a fabricated presidential address could disseminate misinformation rapidly before anyone realizes it’s fake. "
+          "text": ""
         }
       ]
     },
@@ -28,7 +28,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\tThe video aims to raise awareness. It emphasizes how easily a public figure’s image and voice can be manipulated to make them say anything. Rhetorically, the video employs shock and irony to capture attention, reinforcing our theme about the potential exploitation of influential individuals through technology and media manipulation. Additionally, through the use of Obama’s image as a known political leader, the video “foreshadowed one type of disinformation"
+          "text": "The urgency of this video stems from the increasing prevalence of deepfake technology. As these videos become more widespread and difficult to identify, they present significant dangers especially in the realms of politics and media. For instance, a fabricated presidential address could disseminate misinformation rapidly before anyone realizes it’s fake. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The video aims to raise awareness. It emphasizes how easily a public figure’s image and voice can be manipulated to make them say anything. Rhetorically, the video employs shock and irony to capture attention, reinforcing our theme about the potential exploitation of influential individuals through technology and media manipulation. Additionally, through the use of Obama’s image as a known political leader, the video “foreshadowed one type of disinformation"
         }
       ]
     },
@@ -58,6 +74,6 @@
   "slug": "barack-obama-deepfake-introduction",
   "created_at": "2026-02-27T03:32:43.498Z",
   "created_by": "ccui7247",
-  "updated_at": "2026-02-27T09:14:03.206Z",
+  "updated_at": "2026-02-27T09:50:06.042Z",
   "updated_by": "ccui7247"
 }
