@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Anderson Cooper Deepfake: "
         }
       ]
@@ -28,6 +36,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Public: "
         }
       ]
@@ -37,6 +53,14 @@
       "children": [
         {
           "text": "\"Anderson Cooper Deep Fake Video Sparks AI Ethics Debate.\" Walter Shields Data Academy, wsdalearning.ai/anderson-cooper-deep-fake-video-sparks-ai-ethics-debate/. Accessed 26 Feb. 2026. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -100,6 +124,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Public: "
         }
       ]
@@ -109,6 +141,14 @@
       "children": [
         {
           "text": "Metz, Rachel, and Donie O'Sullivan. \"A Deepfake Video of Mark Zuckerberg Presents a New Challenge for Facebook | CNN Business.\" Edited by CNN Business. CNN, 11 June 2019, www.cnn.com/2019/06/11/tech/zuckerberg-deepfake. Accessed 26 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -172,6 +212,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Public: "
         }
       ]
@@ -181,6 +229,14 @@
       "children": [
         {
           "text": "Ars Electronica. \"Obama Deep Fake.\" Ars Electronica, ars.electronica.art/center/en/obama-deep-fake/. Accessed 26 Feb. 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -225,7 +281,7 @@
   "slug": "works-cited",
   "created_at": "2026-02-25T16:03:01.252Z",
   "created_by": "ccui7247",
-  "updated_at": "2026-02-27T03:30:15.786Z",
+  "updated_at": "2026-02-27T09:51:03.553Z",
   "updated_by": "ccui7247",
   "parent": "d25efef2-4155-441e-812f-fd2dbe5bf885"
 }
