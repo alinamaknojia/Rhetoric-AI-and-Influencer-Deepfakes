@@ -1,1 +1,175 @@
-{"annotations":[{"start_time":0,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"Use of credible news anchor as an illustration of Ethos"}]}],"tags":[{"tag":"Ethos","category":"Rhetorical Appeals"}],"uuid":"0b530c16-a776-4087-b3dc-b03c6134fd4c"},{"start_time":12,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"employs feeling of trust "}]}],"tags":[{"tag":"Pathos","category":"Rhetorical Appeals"}],"uuid":"3b0f2100-c61a-4fff-8466-1510301fec02"},{"start_time":12,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"Through AI generated Deep fake"}]}],"tags":[{"tag":"Logos","category":"Rhetorical Appeals"}],"uuid":"8ee6f9f6-6b81-4850-b89b-f82c741f8f92"},{"start_time":0,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"General Public"}]}],"tags":[{"tag":"Audience","category":"Rhetorical Triangle"}],"uuid":"b5a92a78-eb50-42f1-849d-60a10c0194ab"},{"start_time":12,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"Use of AI generated Deep Fakes are hard to distinguish from real videos; Be careful to trust online videos"}]}],"tags":[{"tag":"Message","category":"Rhetorical Triangle"}],"uuid":"8a2deafd-26d7-4830-bafe-cd91b402e6c7"},{"start_time":12,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"Creator of the deep fake, and Anderson Cooper"}]}],"tags":[{"tag":"Communicator","category":"Rhetorical Triangle"}],"uuid":"994c1fc1-3e8d-4975-a120-d247aff0298d"},{"start_time":12,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"Creates urgency to warn audience of the danger of deepfakes "}]}],"tags":[{"tag":"Exigence","category":"Expanded Rhetorical Triangle"}],"uuid":"3a3c2bc0-f64d-4e9a-a82e-a18d66556978"},{"start_time":0,"end_time":26,"annotation":[{"type":"paragraph","children":[{"text":"During the time of arising deep fakes that are starting to look more real "}]}],"tags":[{"tag":"Context","category":"Expanded Rhetorical Triangle"}],"uuid":"07cb3e70-4aac-4c9b-ba9e-bda89c8760c2"}],"set":"Default","event_id":"5b4ca7a4-0d44-428e-be88-cb992c92dbb8","source_id":"714f27fa-63a7-46fe-98b3-3e5b17e5a9ec"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of credible news anchor as an illustration of Ethos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ethos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "0b530c16-a776-4087-b3dc-b03c6134fd4c"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "employs feeling of trust "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Pathos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "3b0f2100-c61a-4fff-8466-1510301fec02"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through AI generated Deep fake"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Logos",
+          "category": "Rhetorical Appeals"
+        }
+      ],
+      "uuid": "8ee6f9f6-6b81-4850-b89b-f82c741f8f92"
+    },
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "General Public"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "b5a92a78-eb50-42f1-849d-60a10c0194ab"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Use of AI generated Deep Fakes are hard to distinguish from real videos; Be careful to trust online videos"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Message",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "8a2deafd-26d7-4830-bafe-cd91b402e6c7"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creator of the deep fake, and Anderson Cooper"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Communicator",
+          "category": "Rhetorical Triangle"
+        }
+      ],
+      "uuid": "994c1fc1-3e8d-4975-a120-d247aff0298d"
+    },
+    {
+      "start_time": 12,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creates urgency to warn audience of the danger of deepfakes "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Exigence",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "3a3c2bc0-f64d-4e9a-a82e-a18d66556978"
+    },
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The context surrounding the Anderson Cooper deepfake is crucial for grasping its significance. The video appears at a time when misinformation rapidly circulates via social media, and digital editing tools have become increasingly more advanced and available. As a reliable anchor on CNN, Anderson Cooper embodies trustworthiness in broadcast journalism. The creation of a deepfake featuring someone in such a role directly undermines the credibility of televised news and online videos. The wider cultural background also encompasses rising political division and diminishing faith in media. In a setting where individuals already doubt what is genuine or biased, a realistic deepfake introduces an additional layer of doubt. This video exploits how viewers are accustomed to watching brief news segments online without consistently verifying their source. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Context",
+          "category": "Expanded Rhetorical Triangle"
+        }
+      ],
+      "uuid": "07cb3e70-4aac-4c9b-ba9e-bda89c8760c2"
+    }
+  ],
+  "set": "Default",
+  "event_id": "5b4ca7a4-0d44-428e-be88-cb992c92dbb8",
+  "source_id": "714f27fa-63a7-46fe-98b3-3e5b17e5a9ec"
+}
