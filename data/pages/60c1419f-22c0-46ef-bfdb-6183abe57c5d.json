@@ -35,11 +35,12 @@
   "created_by": "alinamaknojia",
   "title": "Mark Zuckerberg Deepfake ",
   "slug": "mark-zuckerberg-deepfake",
-  "updated_at": "2026-02-23T16:29:10.338Z",
-  "updated_by": "tylermdelarosa",
+  "updated_at": "2026-02-27T03:38:18.065Z",
+  "updated_by": "ccui7247",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "e6396839-aa12-4978-9ad4-d15c176c888b"
-  }
+  },
+  "parent": "d25efef2-4155-441e-812f-fd2dbe5bf885"
 }
