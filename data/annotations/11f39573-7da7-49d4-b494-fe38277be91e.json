@@ -175,6 +175,27 @@
         }
       ],
       "uuid": "828f85cb-6d31-4954-a621-1f3784f6eb1a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The purpose of the video, as revealed by Peele in the video, is to raise awareness and caution about media we see and view online. Peele argues that we should not believe everything we see online, especially moving forward in an age of information and technology where deepfake technology was already that good back in 2018, and it would only get better with time. The implicit purpose behind the video could also be to demonstrate how good the deepfake technology was back then. When we think of 2018, many people don’t necessarily associate that year as being the year of AI or deepfake technology, but the fact that deepfake technology was already pretty believable back then only shows that it will grow to become even more capable as time goes on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Purpose",
+          "tag": "Purpose"
+        }
+      ],
+      "uuid": "6523a1e0-bbb0-43a6-b8e1-94471a867d86"
     }
   ],
   "set": "Default",
