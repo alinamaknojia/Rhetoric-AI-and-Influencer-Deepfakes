@@ -15,14 +15,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This video is a 2023 deepfake video of Andersoon Cooper showing a real video versus a deepfake video, showing what is possible with AI technology and replication."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The video is a 2023 side by side comparison of a deepfake video of Anderson Cooper versus a real video of Cooper, highlighting the realistic capabilities of deepfake technology and replication."
         }
       ]
     }
   ],
   "created_at": "2026-02-23T16:09:13.505Z",
   "created_by": "alinamaknojia",
-  "updated_at": "2026-02-27T03:44:32.721Z",
+  "updated_at": "2026-02-27T09:52:35.138Z",
   "updated_by": "ccui7247",
   "av_file_order": [
     "714f27fa-63a7-46fe-98b3-3e5b17e5a9ec"
